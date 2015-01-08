@@ -1,0 +1,11 @@
+This project shows an example of how to use CMake for creating your project.
+
+For these examples to work, you will need to install CMake, which can be found: http://www.cmake.org/.
+
+On Windows:
+Requires Visual Studio 2010
+From a console window run GenVS10Projects.bat
+
+On Linux:
+Requires Eclipse CDT
+From a console terminal, ./GenEclipseCDT.sh
